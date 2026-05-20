@@ -1,3 +1,7 @@
 Now we have to make 2 UI related changes:
 1. In the sidebar of the app we have Choose assessment hierarchy, Select Hierarchy Level, Assessment Mode, Select/Enter Items. Move them inside the data Input tab and assessment tab because for rest of the tabs, this are not required. Only Data Input, Assessment,Validation, Reports, Info and Admin tab will remain.
 2. Bring back "<<" instade of the sidebar close lust like ">>" to open the sidebar
+
+
+Your current Git user name is "archito.biswas" and your email is "archito.biswas@pl.abb.com".
+If you need to change these details or want to see global vs. local settings, let me know!
